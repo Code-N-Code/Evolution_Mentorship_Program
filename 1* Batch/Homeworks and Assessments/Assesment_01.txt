@@ -1,0 +1,7 @@
+1.	In Love With Primes			https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/in-love-with-primes/description/
+2.	Ryotsu loves Primes			https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/ryotsu-love-primes/
+3.	Roy and Shopping			https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/roy-and-shopping-20/
+4.	Prime Interval				https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/prime-interval/
+5.	Does it divide?				https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/does-it-divide-3c60b8fb/
+6.	Micro and Prime Prime			https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/
+7.	Prime String				https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/primestring/
