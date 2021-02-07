@@ -1,0 +1,19 @@
+frequency array
+1.	Conversion				https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/conversion-11/
+2.	Print first Occurence			https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/print-first-occurence/
+3.	Remove duplicates			https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/remove-duplicates-3/
+4.	UpUP					https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/upup/
+
+
+Do it using frequency array / Map
+5.	Prime String				https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/primestring/
+
+
+Prime Factorization
+6.	PFACT : Prime Factors			https://www.spoj.com/problems/PFACT/
+7.	FACTCG2 : Medium Factorization		https://www.spoj.com/problems/FACTCG2/
+8.	FACTG : Easy Factorization		https://www.spoj.com/problems/FACTCG/
+9.	MMS : Maximum Set Of Prime Factors	https://www.spoj.com/problems/MMS/
+10.	SUMPRIM1 - Sum of primes		https://www.spoj.com/problems/SUMPRIM1/
+11.	SOD - Sum of Divisors			https://www.spoj.com/problems/SOD/
+12.	DIVSUM - Divisor Summation		https://www.spoj.com/problems/DIVSUM/
