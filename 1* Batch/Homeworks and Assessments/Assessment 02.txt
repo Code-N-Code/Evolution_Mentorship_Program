@@ -1,0 +1,5 @@
+1.	Range Sums			https://www.hackerearth.com/problem/algorithm/range-sum-4/
+2.	Cumulative Sum Query		https://www.spoj.com/problems/CSUMQ/
+
+3.	The  First Meeting		https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/little-shino-and-prime-difference-38c91b0d/
+4.	Ultra Prime			https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/ultra-prime/
